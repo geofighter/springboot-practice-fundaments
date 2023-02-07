@@ -1,2 +1,2 @@
-# srpingboot-practice
+# springboot-practice
 A simple example with springboot
